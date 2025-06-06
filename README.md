@@ -65,6 +65,8 @@ This dashboard helps identify critical factors contributing to customer churn su
 
 Loyalty rewards for high-balance or credit-worthy customers.
 
-Targeted campaigns for Product 2 users.
+# 🚀 What I Learned
 
-Retention programs for middle-aged customers and those with low engagement.
+- How to approach a real-world churn analysis scenario
+- Translating raw data into business insight
+- Creating reports and dashboards that support decision-making
