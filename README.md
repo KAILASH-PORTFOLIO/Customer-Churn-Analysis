@@ -59,6 +59,13 @@ Product 2 users are more likely to churn (~45.9%).
 
 Very few customers use Product 3, but churn is relatively low.
 
+# 💡 Business Takeaways:
+Targeted campaigns for Product 2 users
+
+Rewards for high-balance and credit-worthy customers
+
+Engagement efforts for inactive and mid-age segments
+
 # 🧾 Summary
 
 This dashboard helps identify critical factors contributing to customer churn such as age, activity status, credit score, and account balance. These insights can help design targeted retention strategies like:
